@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+state = {
+	${1}: ${2}
+};
+]]></content>
+    <tabTrigger>gis</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: getInitialState: fn() { return {...} } </description>
+</snippet>

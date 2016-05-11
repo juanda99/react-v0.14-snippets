@@ -1,0 +1,17 @@
+{
+  "name": "react-v0.14-snippets",
+  "version": "0.0.1",
+  "author": "juanda <juandacorreo@gmail.com>",
+  "description": "Sublime Snippets for ReactJS based on ES6 and ES7",
+  "scripts": {
+    "build-docs": "node ./generateReadme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanda99/react-v0.14-snippets"
+  },
+  "dependencies" : {
+    "async": "~0.7.0"
+  },
+  "license": "Apache 2.0"
+}
