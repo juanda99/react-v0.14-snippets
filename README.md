@@ -1,4 +1,4 @@
-# sublime-react-es6
+# react-v0.14-snippets
 
 This is a fork of [sublime-react-es6-snippets](https://github.com/mboperator/sublime-react-es6)
 
