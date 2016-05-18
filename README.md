@@ -1,5 +1,9 @@
 # react-v0.14-snippets
 
+## What is this
+
+This is a snippets package for Sublime Text 3 and React.
+
 This is a fork of [sublime-react-es6-snippets](https://github.com/mboperator/sublime-react-es6)
 
 - Classes with the new ES6 shorthand.
@@ -24,17 +28,17 @@ This is a fork of [sublime-react-es6-snippets](https://github.com/mboperator/sub
 
 ## Installation
 
-Open Package Control inside of Sublime Text using shift + cmd + P
+Open Package Control inside of Sublime Text using **shift + cmd + P**
 
-Search for: Package Control: Add Repository
+Search for: **Package Control: Add Repository**
 
-Add the link to your repo: https://github.com/username/repo-name
+Add the link to your repo: **https://github.com/juanda99/react-v0.14-snippets**
 
-Now install the snippets: shift + cmd + P To launch Package Control again.
+Now install the snippets: **shift + cmd + P** To launch Package Control again.
 
-Start typing: Package Control: Install Package
+Start typing: **Package Control: Install Package**
 
-Search for the repo name.
+Search for the repo name: **react-v01.14-snippets**
 
 Start using your new snippet collection!
 
